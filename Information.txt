@@ -1,0 +1,1 @@
+A simple calculator develop with HTML,CSS and JS,use math.js to avoid the use of eval().
